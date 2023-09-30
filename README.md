@@ -19,7 +19,7 @@ For Database: SQL
 Some screenshots of the pages.
 
 ### Signup Page 
-<img src="../images/main1.png"/>
+<img src="images/main1.png"/>
 
 ### Take Appointment
 <img src="../images/appointment1.png"/> 
